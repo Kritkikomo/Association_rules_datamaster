@@ -1,6 +1,9 @@
 # Association rules and Items Recommend
 This repository is one of the Homework in the datamaster course. The work is aimed to find the Association rules of the items purchasing by using the apriori libraly to get the insight.
 [Unsupervised_Learning_Association_rules_Homework_github](https://github.com/Kritkikomo/Association_rules_datamaster/blob/main/Unsupervised_Learning_Association_rules_Homework_github.ipynb)
+As the result I create the list of recomendation for each customer
+![image](https://user-images.githubusercontent.com/112334326/223737467-1cbf2c36-7f37-4be6-8314-5871f4bc6bc4.png)
+
 ## Step by Step Explaination
 This Association rules notebook aim to find the Items rule that will use for marketing strategy. Moreover, I create the Item Recommendation that base on the purchasing data that we have. 
 The Notebook consists of 4 main step which is
